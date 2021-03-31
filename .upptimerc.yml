@@ -11,7 +11,7 @@ sites:
   - name: Analytics
     url: https://shynet.anton.royletron.dev
   - name: Storage
-    url: https://minio.anton.royletron.dev
+    url: https://mess-3.anton.royletron.dev
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
