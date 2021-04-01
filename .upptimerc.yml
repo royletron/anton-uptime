@@ -30,7 +30,7 @@ status-website:
   cname: status.anton.royletron.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/anton-logo.svg
+  logoUrl: https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/anton-logo-dark.svg
   name: Anton
   theme: dark
   introTitle: "**Anton** is a suite of cloud services all running on a K8s Pi cluster.."
