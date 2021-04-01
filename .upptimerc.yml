@@ -5,6 +5,15 @@ repo: anton-uptime # Your GitHub repository name
 assignees:
   - royletron
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 # Add your sites here
 sites:
   - name: Blog
@@ -23,6 +32,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/anton-logo.svg
   name: Anton
+  theme: dark
   introTitle: "**Anton** is a suite of cloud services all running on a K8s Pi cluster.."
   introMessage: This is our status page that uses **real-time** data from Upptime and Github Actions/Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
