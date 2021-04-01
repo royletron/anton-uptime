@@ -28,6 +28,10 @@ sites:
   - name: Storage
     url: https://mess-3.anton.royletron.dev/minio/health/live
     icon: https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Planet.svg
+  - name: CI
+    url: https://ci.anton.royletron.dev/healthz
+    icon: https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Astronaut.svg
+    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
