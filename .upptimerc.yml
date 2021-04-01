@@ -2,6 +2,9 @@
 owner: royletron # Your GitHub organization or username
 repo: anton-uptime # Your GitHub repository name
 
+assignees:
+  - royletron
+
 # Add your sites here
 sites:
   - name: Blog
