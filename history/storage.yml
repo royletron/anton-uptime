@@ -1,7 +1,7 @@
 url: https://mess-3.anton.royletron.dev/minio/health/live
 status: down
-code: 502
-responseTime: 3801
-lastUpdated: 2021-04-09T21:54:18.887Z
+code: 0
+responseTime: 0
+lastUpdated: 2021-04-09T23:14:15.412Z
 startTime: Wed Mar 31 2021 17:08:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
