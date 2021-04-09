@@ -1,7 +1,7 @@
 url: https://mess-3.anton.royletron.dev/minio/health/live
-status: up
-code: 200
-responseTime: 1706
-lastUpdated: 2021-04-09T21:06:57.736Z
+status: down
+code: 502
+responseTime: 3801
+lastUpdated: 2021-04-09T21:54:18.887Z
 startTime: Wed Mar 31 2021 17:08:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
