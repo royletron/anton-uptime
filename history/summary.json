@@ -76,17 +76,17 @@
     "url": "https://ci.anton.royletron.dev/healthz",
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Astronaut.svg",
     "slug": "ci",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1202,
-    "timeDay": 2055,
-    "timeWeek": 1407,
-    "timeMonth": 1202,
-    "timeYear": 1202,
+    "time": 1353,
+    "timeDay": 2341,
+    "timeWeek": 1611,
+    "timeMonth": 1353,
+    "timeYear": 1353,
     "dailyMinutesDown": {}
   }
 ]
