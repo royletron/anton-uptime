@@ -24,36 +24,40 @@
     "url": "https://commento.anton.royletron.dev",
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Night%20Portrait.svg",
     "slug": "comments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 873,
-    "timeWeek": 673,
-    "timeMonth": 765,
-    "timeYear": 959,
-    "dailyMinutesDown": {}
+    "time": 954,
+    "timeDay": 675,
+    "timeWeek": 648,
+    "timeMonth": 755,
+    "timeYear": 954,
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   },
   {
     "name": "Analytics",
     "url": "https://shynet.anton.royletron.dev",
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Film%20Noir.svg",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1266,
-    "timeDay": 1008,
-    "timeWeek": 806,
-    "timeMonth": 922,
-    "timeYear": 1266,
-    "dailyMinutesDown": {}
+    "time": 1256,
+    "timeDay": 709,
+    "timeWeek": 757,
+    "timeMonth": 905,
+    "timeYear": 1256,
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   },
   {
     "name": "Storage",
@@ -78,17 +82,19 @@
     "url": "https://ci.anton.royletron.dev/healthz",
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Astronaut.svg",
     "slug": "ci",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 859,
-    "timeWeek": 600,
-    "timeMonth": 685,
-    "timeYear": 983,
-    "dailyMinutesDown": {}
+    "time": 978,
+    "timeDay": 721,
+    "timeWeek": 598,
+    "timeMonth": 682,
+    "timeYear": 978,
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   }
 ]
