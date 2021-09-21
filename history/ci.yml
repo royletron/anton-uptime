@@ -1,7 +1,7 @@
 url: https://ci.anton.royletron.dev/healthz
-status: up
-code: 200
-responseTime: 776
-lastUpdated: 2021-09-20T23:06:41.266Z
+status: down
+code: 503
+responseTime: 488
+lastUpdated: 2021-09-21T13:54:00.004Z
 startTime: Thu Apr 01 2021 11:04:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
