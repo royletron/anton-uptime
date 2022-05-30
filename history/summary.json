@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Moon.svg",
     "slug": "blog",
     "status": "up",
-    "uptime": "49.18%",
+    "uptime": "49.27%",
     "uptimeDay": "98.69%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "37.50%",
-    "uptimeYear": "41.20%",
-    "time": 1026,
-    "timeDay": 4217,
-    "timeWeek": 3595,
-    "timeMonth": 3507,
-    "timeYear": 1031,
+    "uptimeMonth": "39.90%",
+    "uptimeYear": "41.38%",
+    "time": 1033,
+    "timeDay": 3408,
+    "timeWeek": 3562,
+    "timeMonth": 3453,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2022-05-29": 19,
       "2022-05-18": 517,
@@ -233,8 +233,7 @@
       "2021-08-02": 1440,
       "2021-08-01": 1440,
       "2021-07-31": 1440,
-      "2021-07-30": 868,
-      "2021-05-30": 1301
+      "2021-07-30": 868
     }
   },
   {
@@ -243,16 +242,16 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Night%20Portrait.svg",
     "slug": "comments",
     "status": "up",
-    "uptime": "47.81%",
+    "uptime": "47.90%",
     "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "37.47%",
-    "uptimeYear": "39.61%",
-    "time": 1069,
-    "timeDay": 5234,
-    "timeWeek": 3865,
-    "timeMonth": 3875,
-    "timeYear": 1121,
+    "uptimeMonth": "39.87%",
+    "uptimeYear": "39.79%",
+    "time": 1072,
+    "timeDay": 2510,
+    "timeWeek": 3699,
+    "timeMonth": 3723,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2022-05-29": 18,
       "2022-05-18": 531,
@@ -477,8 +476,7 @@
       "2021-08-02": 1440,
       "2021-08-01": 1440,
       "2021-07-31": 1440,
-      "2021-07-30": 867,
-      "2021-05-30": 1301
+      "2021-07-30": 867
     }
   },
   {
@@ -487,16 +485,16 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Film%20Noir.svg",
     "slug": "analytics",
     "status": "up",
-    "uptime": "48.63%",
+    "uptime": "48.72%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "37.48%",
-    "uptimeYear": "40.56%",
-    "time": 1367,
-    "timeDay": 4911,
-    "timeWeek": 5099,
-    "timeMonth": 4489,
-    "timeYear": 1403,
+    "uptimeMonth": "39.87%",
+    "uptimeYear": "40.74%",
+    "time": 1382,
+    "timeDay": 4387,
+    "timeWeek": 5257,
+    "timeMonth": 4524,
+    "timeYear": 1424,
     "dailyMinutesDown": {
       "2022-05-29": 18,
       "2022-05-18": 531,
@@ -720,8 +718,7 @@
       "2021-08-02": 1440,
       "2021-08-01": 1440,
       "2021-07-31": 1440,
-      "2021-07-30": 867,
-      "2021-05-30": 1301
+      "2021-07-30": 867
     }
   },
   {
@@ -730,16 +727,16 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Planet.svg",
     "slug": "storage",
     "status": "up",
-    "uptime": "49.19%",
+    "uptime": "49.28%",
     "uptimeDay": "98.78%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "37.47%",
-    "uptimeYear": "41.20%",
-    "time": 951,
-    "timeDay": 3004,
-    "timeWeek": 2590,
-    "timeMonth": 2791,
-    "timeYear": 897,
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "39.86%",
+    "uptimeYear": "41.38%",
+    "time": 957,
+    "timeDay": 2937,
+    "timeWeek": 2646,
+    "timeMonth": 2774,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2022-05-29": 18,
       "2022-05-22": 17,
@@ -959,8 +956,7 @@
       "2021-08-02": 1440,
       "2021-08-01": 1440,
       "2021-07-31": 1440,
-      "2021-07-30": 866,
-      "2021-05-30": 1301
+      "2021-07-30": 866
     }
   },
   {
@@ -969,18 +965,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Astronaut.svg",
     "slug": "ci",
     "status": "down",
-    "uptime": "30.96%",
+    "uptime": "30.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.19%",
-    "time": 906,
-    "timeDay": 4385,
-    "timeWeek": 2979,
-    "timeMonth": 2761,
-    "timeYear": 877,
+    "uptimeYear": "20.17%",
+    "time": 915,
+    "timeDay": 3014,
+    "timeWeek": 3044,
+    "timeMonth": 2784,
+    "timeYear": 889,
     "dailyMinutesDown": {
-      "2022-05-29": 521,
+      "2022-05-30": 128,
+      "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -1277,8 +1274,7 @@
       "2021-08-01": 1440,
       "2021-07-31": 1440,
       "2021-07-30": 866,
-      "2021-06-26": 34,
-      "2021-05-30": 1301
+      "2021-06-26": 34
     }
   }
 ]
