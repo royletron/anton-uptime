@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Moon.svg",
     "slug": "blog",
     "status": "down",
-    "uptime": "53.22%",
+    "uptime": "53.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.14%",
+    "uptimeMonth": "56.86%",
     "uptimeYear": "38.44%",
     "time": 1102,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 940,
+    "timeMonth": 941,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2022-07-31": 150,
+      "2022-08-01": 147,
+      "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -249,8 +250,7 @@
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
-      "2021-08-02": 1440,
-      "2021-08-01": 1440
+      "2021-08-02": 1440
     }
   },
   {
@@ -259,18 +259,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Night%20Portrait.svg",
     "slug": "comments",
     "status": "down",
-    "uptime": "51.69%",
+    "uptime": "51.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.69%",
+    "uptimeMonth": "51.41%",
     "uptimeYear": "36.39%",
     "time": 1127,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1030,
+    "timeMonth": 1025,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2022-07-31": 150,
+      "2022-08-01": 147,
+      "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -510,8 +511,7 @@
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
-      "2021-08-02": 1440,
-      "2021-08-01": 1440
+      "2021-08-02": 1440
     }
   },
   {
@@ -520,18 +520,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Film%20Noir.svg",
     "slug": "analytics",
     "status": "down",
-    "uptime": "52.67%",
+    "uptime": "52.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.18%",
+    "uptimeMonth": "55.90%",
     "uptimeYear": "37.70%",
-    "time": 1460,
+    "time": 1463,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1316,
+    "timeMonth": 1297,
     "timeYear": 1758,
     "dailyMinutesDown": {
-      "2022-07-31": 150,
+      "2022-08-01": 147,
+      "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -770,8 +771,7 @@
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
-      "2021-08-02": 1440,
-      "2021-08-01": 1440
+      "2021-08-02": 1440
     }
   },
   {
@@ -780,10 +780,10 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Planet.svg",
     "slug": "storage",
     "status": "down",
-    "uptime": "53.21%",
+    "uptime": "53.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.16%",
+    "uptimeMonth": "56.88%",
     "uptimeYear": "38.42%",
     "time": 1005,
     "timeDay": 0,
@@ -791,7 +791,8 @@
     "timeMonth": 934,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2022-07-31": 150,
+      "2022-08-01": 147,
+      "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -1025,8 +1026,7 @@
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
-      "2021-08-02": 1440,
-      "2021-08-01": 1440
+      "2021-08-02": 1440
     }
   },
   {
@@ -1035,18 +1035,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Astronaut.svg",
     "slug": "ci",
     "status": "down",
-    "uptime": "26.96%",
+    "uptime": "26.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "3.60%",
-    "time": 875,
+    "time": 876,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 763,
+    "timeMonth": 759,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2022-07-31": 150,
+      "2022-08-01": 147,
+      "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -1402,8 +1403,7 @@
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
-      "2021-08-02": 1440,
-      "2021-08-01": 1440
+      "2021-08-02": 1440
     }
   }
 ]
