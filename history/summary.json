@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Moon.svg",
     "slug": "blog",
     "status": "down",
-    "uptime": "44.53%",
+    "uptime": "44.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "27.20%",
-    "time": 1139,
+    "time": 1140,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1560,
     "dailyMinutesDown": {
-      "2022-11-03": 27,
+      "2022-11-04": 28,
+      "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -289,8 +290,7 @@
       "2021-11-08": 1440,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
-      "2021-11-05": 1440,
-      "2021-11-04": 1440
+      "2021-11-05": 1440
     }
   },
   {
@@ -299,18 +299,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Night%20Portrait.svg",
     "slug": "comments",
     "status": "down",
-    "uptime": "43.25%",
+    "uptime": "43.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "26.74%",
-    "time": 1154,
+    "time": 1156,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1586,
     "dailyMinutesDown": {
-      "2022-11-03": 28,
+      "2022-11-04": 28,
+      "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -584,8 +585,7 @@
       "2021-11-08": 1440,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
-      "2021-11-05": 1440,
-      "2021-11-04": 1440
+      "2021-11-05": 1440
     }
   },
   {
@@ -594,18 +594,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Film%20Noir.svg",
     "slug": "analytics",
     "status": "down",
-    "uptime": "44.07%",
+    "uptime": "43.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "27.10%",
-    "time": 1483,
+    "time": 1484,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2022-11-03": 28,
+      "2022-11-04": 28,
+      "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -880,8 +881,7 @@
       "2021-11-08": 1440,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
-      "2021-11-05": 1440,
-      "2021-11-04": 1440
+      "2021-11-05": 1440
     }
   },
   {
@@ -890,18 +890,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Planet.svg",
     "slug": "storage",
     "status": "down",
-    "uptime": "44.53%",
+    "uptime": "44.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "27.19%",
-    "time": 964,
+    "time": 965,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2022-11-03": 28,
+      "2022-11-04": 28,
+      "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -1175,8 +1176,7 @@
       "2021-11-08": 1440,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
-      "2021-11-05": 1440,
-      "2021-11-04": 1440
+      "2021-11-05": 1440
     }
   },
   {
@@ -1185,18 +1185,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Astronaut.svg",
     "slug": "ci",
     "status": "down",
-    "uptime": "22.55%",
+    "uptime": "22.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.13%",
-    "time": 990,
+    "time": 993,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2022-11-03": 28,
+      "2022-11-04": 28,
+      "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -1559,8 +1560,7 @@
       "2021-11-08": 1440,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
-      "2021-11-05": 1440,
-      "2021-11-04": 1440
+      "2021-11-05": 1440
     }
   }
 ]
