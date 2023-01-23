@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Moon.svg",
     "slug": "blog",
     "status": "down",
-    "uptime": "39.14%",
+    "uptime": "39.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1560,
     "dailyMinutesDown": {
-      "2023-01-22": 24,
+      "2023-01-23": 21,
+      "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -289,8 +290,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
-      "2022-01-24": 1440,
-      "2022-01-23": 1440
+      "2022-01-24": 1440
     }
   },
   {
@@ -299,18 +299,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Night%20Portrait.svg",
     "slug": "comments",
     "status": "down",
-    "uptime": "38.01%",
+    "uptime": "37.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "26.74%",
-    "time": 1322,
+    "time": 1325,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1586,
     "dailyMinutesDown": {
-      "2023-01-22": 24,
+      "2023-01-23": 21,
+      "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -584,8 +585,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
-      "2022-01-24": 1440,
-      "2022-01-23": 1440
+      "2022-01-24": 1440
     }
   },
   {
@@ -594,18 +594,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Film%20Noir.svg",
     "slug": "analytics",
     "status": "down",
-    "uptime": "38.74%",
+    "uptime": "38.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "27.10%",
-    "time": 1727,
+    "time": 1731,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2023-01-22": 24,
+      "2023-01-23": 21,
+      "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -880,8 +881,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
-      "2022-01-24": 1440,
-      "2022-01-23": 1440
+      "2022-01-24": 1440
     }
   },
   {
@@ -890,18 +890,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Planet.svg",
     "slug": "storage",
     "status": "down",
-    "uptime": "39.14%",
+    "uptime": "39.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "27.19%",
-    "time": 1104,
+    "time": 1106,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2023-01-22": 24,
+      "2023-01-23": 21,
+      "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -1175,8 +1176,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
-      "2022-01-24": 1440,
-      "2022-01-23": 1440
+      "2022-01-24": 1440
     }
   },
   {
@@ -1185,18 +1185,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Astronaut.svg",
     "slug": "ci",
     "status": "down",
-    "uptime": "19.82%",
+    "uptime": "19.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.13%",
-    "time": 1121,
+    "time": 1125,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-01-22": 24,
+      "2023-01-23": 22,
+      "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -1559,8 +1560,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
-      "2022-01-24": 1440,
-      "2022-01-23": 1440
+      "2022-01-24": 1440
     }
   }
 ]
