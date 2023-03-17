@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Moon.svg",
     "slug": "blog",
     "status": "down",
-    "uptime": "36.24%",
+    "uptime": "36.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "17.17%",
+    "uptimeYear": "16.89%",
     "time": 1560,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1775,
+    "timeYear": 1783,
     "dailyMinutesDown": {
-      "2023-03-16": 25,
+      "2023-03-17": 23,
+      "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -325,8 +326,7 @@
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
-      "2022-03-18": 1440,
-      "2022-03-17": 1160
+      "2022-03-18": 1440
     }
   },
   {
@@ -335,18 +335,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Night%20Portrait.svg",
     "slug": "comments",
     "status": "down",
-    "uptime": "35.19%",
+    "uptime": "35.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "16.71%",
+    "uptimeYear": "16.44%",
     "time": 1586,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1858,
     "dailyMinutesDown": {
-      "2023-03-16": 25,
+      "2023-03-17": 23,
+      "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -656,8 +657,7 @@
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
-      "2022-03-18": 1440,
-      "2022-03-17": 1159
+      "2022-03-18": 1440
     }
   },
   {
@@ -666,18 +666,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Film%20Noir.svg",
     "slug": "analytics",
     "status": "down",
-    "uptime": "35.86%",
+    "uptime": "35.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "17.07%",
+    "uptimeYear": "16.79%",
     "time": 1963,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2317,
+    "timeYear": 2311,
     "dailyMinutesDown": {
-      "2023-03-16": 25,
+      "2023-03-17": 23,
+      "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -987,8 +988,7 @@
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
-      "2022-03-18": 1440,
-      "2022-03-17": 1159
+      "2022-03-18": 1440
     }
   },
   {
@@ -997,18 +997,19 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Planet.svg",
     "slug": "storage",
     "status": "down",
-    "uptime": "36.24%",
+    "uptime": "36.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "17.15%",
+    "uptimeYear": "16.88%",
     "time": 1276,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1501,
+    "timeYear": 1498,
     "dailyMinutesDown": {
-      "2023-03-16": 25,
+      "2023-03-17": 23,
+      "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -1318,8 +1319,7 @@
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
-      "2022-03-18": 1440,
-      "2022-03-17": 1158
+      "2022-03-18": 1440
     }
   },
   {
@@ -1328,7 +1328,7 @@
     "icon": "https://raw.githubusercontent.com/royletron/anton-uptime/master/assets/Astronaut.svg",
     "slug": "ci",
     "status": "down",
-    "uptime": "18.35%",
+    "uptime": "18.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1337,9 +1337,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1326,
+    "timeYear": 1327,
     "dailyMinutesDown": {
-      "2023-03-16": 25,
+      "2023-03-17": 23,
+      "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -1702,8 +1703,7 @@
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
-      "2022-03-18": 1440,
-      "2022-03-17": 1440
+      "2022-03-18": 1440
     }
   }
 ]
